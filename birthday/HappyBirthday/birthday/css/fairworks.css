@@ -1,0 +1,12 @@
+canvas {
+    display: block;
+}
+
+.block-audio {
+    display: none;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
